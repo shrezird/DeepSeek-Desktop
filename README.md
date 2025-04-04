@@ -46,11 +46,11 @@ A: Lighter resource usage, persistent sessions, and a distraction-free dedicated
 **Q: Can I use private mode?**  
 A: Yes, modify the script to set `private_mode=True`.
 
-**Q: Will this be constantly updated?**  
-A: Probably not, it works perfect as is.
+Q: Will this be constantly updated?
+A: Likely not—the current version is stable and fully functional as-is.
 
-**Q: Will this be constantly updated?**  
-A: Probably not, it works perfect as is.
+Q: Why is there a precompiled DeepSeek.exe?
+A: The DeepSeek.exe version operates nearly identically to the DeepSeek.pyw script. The only differences are that the .exe includes the DeepSeek logo as the application icon and displays it in the taskbar when running.
 
-**Q: IS THIS SAFE TO USE?**  
-A: The project is open source, feel free to look for anything suspicious.
+Q: Is this safe to use?
+A: Yes. This project is open-source, so you can review the code for any potential concerns.
