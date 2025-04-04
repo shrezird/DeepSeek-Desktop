@@ -39,18 +39,29 @@ pip install pyinstaller
 pyinstaller --onefile --windowed --icon=assets/icon.ico deepseek_desktop.py
 ```
 
+
+
 ## FAQ  
-**Q: How is this different from using a browser?**  
+**Q: How is this different from using a browser?**
+
 A: Lighter resource usage, persistent sessions, and a distraction-free dedicated window.  
 
-**Q: Can I use private mode?**  
+
+**Q: Can I use private mode?**
+
 A: Yes, modify the script to set `private_mode=True`.
 
+
 **Q: Will this be constantly updated?**
+
 A: Likely not—the current version is stable and fully functional as-is.
 
+
 **Q: Why is there a precompiled DeepSeek.exe?**
+
 A: The DeepSeek.exe version operates nearly identically to the DeepSeek.pyw script. The only differences are that the .exe includes the DeepSeek logo as the application icon and displays it in the taskbar when running.
 
+
 **Q: Is this safe to use?**
-A: Yes. This project is open-source, so you can review the code for any potential concerns.
+
+A: *Yes.* This project is open-source, so you can review the code for any potential concerns.
