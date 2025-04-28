@@ -37,7 +37,12 @@ DeepSeek Desktop is an open-source Windows application optimized for a streamlin
 ## Tutorials
 <details closed>
 <summary>Tutorial: How to use standalone Python script</summary>
-Unavailable
+  
+1. Install [Python 3.13+](https://www.python.org/downloads/)  
+2. Install required packages:  
+   ```bash
+   pip install pywebview pyinstaller
+   ```
 </details>
 
 <details closed>
