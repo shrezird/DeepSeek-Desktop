@@ -45,7 +45,7 @@ DeepSeek Desktop is an open-source Windows application optimized for a streamlin
    ```
 3. Run main.pyw (change extension .pyw to .py to show application console)
 
-Notes: To build as an exe, open Command Prompt in the directory of main.pyw and icon.ico, and run the following command:
+*Notes: To build as an exe, open Command Prompt in the directory of main.pyw and icon.ico, and run the following command:*
    ```bash
    pyinstaller --onefile --icon=icon.ico main.pyw
    ```
