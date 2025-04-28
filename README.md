@@ -38,7 +38,7 @@ DeepSeek Desktop is an open-source Windows application optimized for a streamlin
 <details closed>
 <summary>Tutorial: How to use standalone Python script</summary>
   
-1. Install [Python 3.13+](https://www.python.org/downloads/)  
+1. Install [Python 3.13+](https://www.python.org/downloads/)
 2. Install required packages:  
    ```bash
    pip install pywebview pyinstaller
@@ -55,7 +55,7 @@ Notes: To build as an exe, open Command Prompt in the directory of main.pyw and 
 <details closed>
 <summary>Tutorial: How to use pre-built EXE</summary>
 
-1. Download the latest pre-compiled executable here: https://github.com/shrezird/DeepSeek-Desktop/releases/download/v1.1/DeepSeek.exe
+1. Download the latest pre-compiled executable here: [DeepSeek.exe](https://github.com/shrezird/DeepSeek-Desktop/releases/download/v1.1/DeepSeek.exe/)
 2. Run DeepSeek.exe
 
 Warning: In most cases Windows will block the running of an exe it doesn't recognize. You will have to allow the exe to run if this happens.
