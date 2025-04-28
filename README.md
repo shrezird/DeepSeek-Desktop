@@ -14,3 +14,5 @@ SMALL Changes:
 - Fixed incorrect text font and sizing/positioning of overlay.
 - Added ability to open official DeepSeek website through text overlay.
 </details>
+#
+![image](https://github.com/user-attachments/assets/3bd1db6f-ef88-4f99-8813-c13a59cc3936)
