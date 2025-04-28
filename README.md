@@ -3,13 +3,13 @@
 <details closed>
 <summary>Release v1.1 Changelog</summary>
 
-MAJOR Changes:
+Major Changes:
 - Added a fancy custom right click menu for Copy, Paste, Speak, and Refresh!
 - Window title now changes dynamically depending on what DeepSeek chat you currently have selected!
 - Optimized documentation and source code!
 - Overall pre-built EXE size has been cut in half and optimized.
 
-SMALL Changes:
+Small Changes:
 - Window now opens maximized with a set minimum size of 900/650.
 - Now allows the downloading of text blocks that DeepSeek generates.
 - Fixed incorrect text font and sizing/positioning of overlay.
@@ -20,28 +20,33 @@ SMALL Changes:
 ![image](https://github.com/user-attachments/assets/3bd1db6f-ef88-4f99-8813-c13a59cc3936)
 #
 
-<summary>Tutorial: How to use standalone Python script?</summary>
+## Information
+Unavailable
+
+#
+
+## Tutorials
+<details closed>
+<summary>Tutorial: How to use standalone Python script</summary>
 Unavailable
 </details>
 
-<summary>Tutorial: How to use pre-built EXE?</summary>
+<details closed>
+<summary>Tutorial: How to use pre-built EXE</summary>
 Unavailable
 </details>
 
 #
 
 ## Frequently Asked Questions
-**Q: What advantages does this offer over browser access?**  
-A: Provides reduced resource consumption, persistent sessions, and a focused interface without browser clutter.  
+**Q: What advantages does this offer over browser access?**
+A: Provides reduced resource consumption, seperated persistent sessions, and a focused interface without browser clutter.
 
-**Q: Is private browsing supported?**  
-A: Enable private mode by modifying the script's `private_mode=True` parameter.  
+**Q: What is the update roadmap?**
+A: This release (v1.1) is considered feature-complete and stable. Feature updates will focus on critical fixes only.
 
-**Q: What is the update roadmap?**  
-A: This release (v1.0) is considered feature-complete and stable. Updates will focus on critical fixes only.  
+**Q: Why provide both .pyw and .exe versions?**
+A: The Python script offers customization, while the executable provides official branding and simplified deployment.
 
-**Q: Why provide both .pyw and .exe versions?**  
-A: The Python script offers customization, while the executable provides official branding and simplified deployment.  
-
-**Q: How is security handled?**  
+**Q: How is security handled?**
 A: As open-source software, all code is publicly auditable. No data collection or telemetry is implemented.
