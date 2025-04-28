@@ -21,6 +21,9 @@ Small Changes:
 #
 
 ## Information
+DeepSeek Desktop is an open-source Windows application optimized for a streamlined DeepSeek experience without the clutter of a browser.
+
+## Features
 Unavailable
 
 #
