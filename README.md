@@ -1,4 +1,5 @@
 # DeepSeek Desktop
+
 <details closed>
 <summary>v1.1 Update</summary>
 
