@@ -43,6 +43,8 @@ DeepSeek Desktop is an open-source Windows application optimized for a streamlin
    ```bash
    pip install pywebview pyinstaller
    ```
+3. Run main.pyw (change extension .pyw to .py to show application console)
+
 </details>
 
 <details closed>
