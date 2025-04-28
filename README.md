@@ -1,5 +1,5 @@
 # DeepSeek Desktop  
-
+### v1.0
 **Open-source Windows client for streamlined DeepSeek access**  
 *Community project - Not officially affiliated with DeepSeek*
 
