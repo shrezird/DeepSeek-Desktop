@@ -18,3 +18,30 @@ SMALL Changes:
 
 #
 ![image](https://github.com/user-attachments/assets/3bd1db6f-ef88-4f99-8813-c13a59cc3936)
+#
+
+<summary>Tutorial: How to use standalone Python script?</summary>
+Unavailable
+</details>
+
+<summary>Tutorial: How to use pre-built EXE?</summary>
+Unavailable
+</details>
+
+#
+
+## Frequently Asked Questions
+**Q: What advantages does this offer over browser access?**  
+A: Provides reduced resource consumption, persistent sessions, and a focused interface without browser clutter.  
+
+**Q: Is private browsing supported?**  
+A: Enable private mode by modifying the script's `private_mode=True` parameter.  
+
+**Q: What is the update roadmap?**  
+A: This release (v1.0) is considered feature-complete and stable. Updates will focus on critical fixes only.  
+
+**Q: Why provide both .pyw and .exe versions?**  
+A: The Python script offers customization, while the executable provides official branding and simplified deployment.  
+
+**Q: How is security handled?**  
+A: As open-source software, all code is publicly auditable. No data collection or telemetry is implemented.
