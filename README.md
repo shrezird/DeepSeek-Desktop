@@ -24,7 +24,12 @@ Small Changes:
 DeepSeek Desktop is an open-source Windows application optimized for a streamlined DeepSeek experience without the clutter of a browser.
 
 ## Features
-Unavailable
+- **Persistent Sessions** - Maintains login authentication between launches.
+- **Resource Efficient** - Lighter memory usage than using a browser.
+- **Desktop-Optimized Interface** - Opens maximized, has a minimum window size of 900/650, and a dynamic window title that adjusts based on what DeepSeek chat you have selected.
+- **Dual Deployment Options**:
+  - **Python Script** (developer-friendly open-source Python script for personal modifications)
+  - **Standalone Executable** (pre-built exe for average users)
 
 #
 
