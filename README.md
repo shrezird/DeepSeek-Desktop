@@ -1,7 +1,7 @@
 # DeepSeek Desktop
 
 <details closed>
-<summary>v1.1 Update</summary>
+<summary>Release v1.1 Changelog</summary>
 
 MAJOR Changes:
 - Added a fancy custom right click menu for Copy, Paste, Speak, and Refresh!
