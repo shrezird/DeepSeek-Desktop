@@ -39,14 +39,17 @@ Unavailable
 #
 
 ## Frequently Asked Questions
-**Q: What advantages does this offer over browser access?**
-A: Provides reduced resource consumption, seperated persistent sessions, and a focused interface without browser clutter.
+**Question: What advantages does this offer over browser access?**
+   - Answer: Provides reduced resource consumption, seperated persistent sessions, and a focused interface without browser clutter.
 
-**Q: What is the update roadmap?**
-A: This release (v1.1) is considered feature-complete and stable. Feature updates will focus on critical fixes only.
 
-**Q: Why provide both .pyw and .exe versions?**
-A: The Python script offers customization, while the executable provides official branding and simplified deployment.
+**Question: What is the update roadmap?**
+   - Answer: This release (v1.1) is considered feature-complete and stable. Feature updates will focus on critical fixes only.
 
-**Q: How is security handled?**
-A: As open-source software, all code is publicly auditable. No data collection or telemetry is implemented.
+
+**Question: Why provide both .pyw and .exe versions?**
+   - Answer: The Python script offers customization, while the executable provides official branding and simplified deployment.
+
+
+**Question: How is security handled?**
+   - Answer: As open-source software, all code is publicly auditable. No data collection or telemetry is implemented.
